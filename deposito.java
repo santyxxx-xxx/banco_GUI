@@ -24,4 +24,4 @@ public class deposito extends JFrame {
         });
     }
 }
-
+//
